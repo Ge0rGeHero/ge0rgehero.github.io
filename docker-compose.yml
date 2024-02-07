@@ -1,0 +1,12 @@
+version: '4.26'
+services:
+  blog:
+    image: hexo:01
+    container_name: blog
+    ports:
+      - "4000:4000"
+    volumes:
+     - C:/Users/Jame/.ssh:/root/.ssh
+     - C:/Users/Jame/Desktop/blog/Hexo/data:/hexo/
+    environment:
+    - TZ=Asia/Shanghai
