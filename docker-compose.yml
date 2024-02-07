@@ -1,7 +1,7 @@
 version: '4.26'
 services:
   blog:
-    image: hexo:01
+    image: hexo:02
     container_name: blog
     ports:
       - "4000:4000"
