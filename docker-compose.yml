@@ -7,6 +7,7 @@ services:
       - "4000:4000"
     volumes:
      - C:/Users/Jame/.ssh:/root/.ssh
-     - C:/Users/Jame/Desktop/blog/Hexo/data:/hexo/
+     - C:/Users/Jame/Desktop/blog/Hexo/data:/hexo
+     #- C:/Users/Jame/Desktop/blog/Hexo/repositories/ge0rgehero.github.io/.git:/hexo
     environment:
     - TZ=Asia/Shanghai
