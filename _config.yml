@@ -102,5 +102,5 @@ theme: Kratos-Rebirth
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
 	type: git
-  repo: https://github.com/Ge0rGeHero/ge0rgehero.github.io.git
+  repo: git@github.com:Ge0rGeHero/ge0rgehero.github.io.git
   branch: master
