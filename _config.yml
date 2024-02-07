@@ -103,4 +103,4 @@ theme: Kratos-Rebirth
 deploy:
   type: git
   repo: git@github.com:Ge0rGeHero/ge0rgehero.github.io.git
-  branch: master
+  branch: gh-pages
