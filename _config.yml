@@ -105,5 +105,5 @@ theme: butterfly
 deploy:
   type: git
   repo: git@github.com:Ge0rGeHero/ge0rgehero.github.io.git
-  branch: main
+  branch: master
 
