@@ -97,7 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Kratos-Rebirth
+theme: butterfly
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -105,3 +106,4 @@ deploy:
   type: git
   repo: git@github.com:Ge0rGeHero/ge0rgehero.github.io.git
   branch: main
+
